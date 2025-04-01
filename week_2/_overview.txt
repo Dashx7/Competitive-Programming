@@ -1,0 +1,1 @@
+This week was segment trees and how to build and use the various forms of them

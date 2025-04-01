@@ -1,0 +1,1 @@
+This week was graph theory work. Lots of graph algos. 

@@ -1,0 +1,1 @@
+This week was about modular arithmatic, its properties and algorithms like chinese remainder theorem

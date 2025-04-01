@@ -1,0 +1,2 @@
+This week was network flow work and learning how to use the network flow kaktle code as well. We also used max flow for min cut problems
+

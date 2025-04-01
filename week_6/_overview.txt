@@ -1,0 +1,1 @@
+This week was substrings and palindromes and some algorithms like manachers that solve them quickly 
