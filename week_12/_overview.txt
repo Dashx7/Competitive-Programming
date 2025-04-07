@@ -1,1 +1,1 @@
-This week didn't have problems
+This week was about advanced dynamic programming problems, bringing up concepts again like segment trees.

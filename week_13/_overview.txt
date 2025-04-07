@@ -1,0 +1,1 @@
+This week was about dynamic programming, starting with tree DP and bitmask DP.
